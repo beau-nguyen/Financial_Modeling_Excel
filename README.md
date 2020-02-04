@@ -15,4 +15,5 @@ The purpose of this project is to build a Mortgage Amortization Table with Extra
 	* Input interest rate per year in cell B3
 	* Input the principal payment in cell B5
 	* Input extra payment under column F pre-payment.
+![]( https://github.com/beau-nguyen/Financial_Modeling_Excel/blob/master/Image/Amortization%20Table.PNG)
 
